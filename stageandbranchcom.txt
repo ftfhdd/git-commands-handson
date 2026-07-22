@@ -1,1 +1,2 @@
 all the commands for staging and branch
+new line to check pr and below line for merge conflict 
